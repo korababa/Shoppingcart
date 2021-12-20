@@ -1,0 +1,26 @@
+.shop-img{
+    width: 150px;
+    height: 120px;
+}
+
+.shop-item{
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: 30px;
+}
+
+.item-img{
+    width: 100px;
+    height: 100px;
+}
+
+.item-qty{
+    width: 70px;
+}
+
+.shop-price{
+    font-size: 14px;
+}
+.shop-title{
+    font-size: 18px;
+}
